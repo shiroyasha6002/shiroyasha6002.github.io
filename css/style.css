@@ -30,6 +30,13 @@ nav {
     cursor: pointer;
     flex-wrap: wrap;
 }
+.icon {
+    width: 55%;
+    height: 45%;
+    align-items: center;
+    text-align: center;
+    flex-wrap: wrap;
+}
 span {
     color: #f8071b;
 }
